@@ -1,0 +1,6 @@
+/public
+/tmp
+/static
+/tmp_segments
+/app/models/siamese_model_final.pth
+*/__pycache__/
